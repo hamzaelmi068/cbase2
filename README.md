@@ -1,8 +1,9 @@
 # cbase ![Stars](https://img.shields.io/github/stars/realTristan/cbase?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/cbase?label=Watchers)
-![banner](https://github.com/realTristan/cbase/assets/75189508/7394bbc9-6b29-4afa-bb9b-79f75be26145)
+![cbase](https://github.com/hamzaelmi068/cbase2/assets/96888252/08cb4717-0a90-4af2-85f3-64bfcfcca735)
 
 
-Convert decimal to binary, hex, octal, etc. and vice versa! Numeral representation concepts learned in our CIS*1910 class.
+
+Convert decimal to binary, hex, octal, etc. and vice versa! Numeral representation concepts learned in our Discrete Mathematics class.
 
 ## Todo
 - [X] Convert from decimal to base b
