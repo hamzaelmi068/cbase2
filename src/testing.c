@@ -13,7 +13,7 @@
 #include "base_subtraction.h"
 
 // Keep track of the number of tests.
-#define TOTAL_TESTS 25
+#define TOTAL_TESTS 26
 
 // Asserts that a condition is true
 void assert(int *count, clock_t *start, int condition);
