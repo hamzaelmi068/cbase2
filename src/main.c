@@ -53,7 +53,7 @@ int main(void)
 }
 
 /**
- * Handles the option selected by the user
+ * This Handles the option selected by the user
  * @param opt The option selected by the user
  * @return void
  */
