@@ -31,7 +31,8 @@ string base_subtraction(string h1, string h2, int b1, int b2)
   int decimal2 = base_to_decimal(h2, b2);
 
   // Perform the subtraction below
-  int result = decimal1 - decimal2;
+  int result;
+  result = decimal1 - decimal2;
 
   // Convert the decimal result into a base b
   return decimal_to_base(result, b1);
