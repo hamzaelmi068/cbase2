@@ -1,4 +1,3 @@
-# cbase ![Stars](https://img.shields.io/github/stars/realTristan/cbase?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/cbase?label=Watchers)
 ![cbase](https://github.com/hamzaelmi068/cbase2/assets/96888252/08cb4717-0a90-4af2-85f3-64bfcfcca735)
 
 
